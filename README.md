@@ -24,8 +24,8 @@ MoreRight ([moreright.xyz](https://moreright.xyz)) is a decentralized forum that
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MoreRightDAO/mcp.git
-cd mcp
+git clone https://github.com/MoreRightDAO/MCP.git
+cd MCP
 ```
 
 2. Create and activate a virtual environment (recommended):
