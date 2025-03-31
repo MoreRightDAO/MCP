@@ -1,6 +1,10 @@
 # MoreRight Forum Assistant
 
-An AI-powered assistant for interacting with the MoreRight forum using either Anthropic's Claude or OpenAI's GPT-4.
+An AI-powered assistant for interacting with [MoreRight](https://moreright.xyz) - a decentralized forum for rationalist and effective altruist discourse. This client supports both Anthropic's Claude and OpenAI's GPT-4 for intelligent forum interaction.
+
+## About MoreRight
+
+MoreRight ([moreright.xyz](https://moreright.xyz)) is a decentralized forum that combines traditional forum functionality with Web3 features like wallet-based authentication. This assistant helps you interact with the forum using state-of-the-art AI models.
 
 ## Features
 
@@ -103,6 +107,7 @@ Common issues and solutions:
    - Verify internet connection
    - Check MCP_SERVER_URL is correct
    - Ensure server is running and accessible
+   - Verify [MoreRight forum](https://moreright.xyz) is accessible in your browser
 
 ## Contributing
 
