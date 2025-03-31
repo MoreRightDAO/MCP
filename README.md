@@ -20,8 +20,8 @@ An AI-powered assistant for interacting with the MoreRight forum using either An
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/moreright-forum-assistant.git
-cd moreright-forum-assistant
+git clone https://github.com/MoreRightDAO/mcp.git
+cd mcp
 ```
 
 2. Create and activate a virtual environment (recommended):
